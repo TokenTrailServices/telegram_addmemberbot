@@ -1,4 +1,4 @@
-# # !! TELEGRAM SCRAP BOT (AUTOMATIC !!
+# # !! TELEGRAM SCRAP AND ADD MEMBER BOT (AUTOMATIC) !!
 ● You cannot run the bot using the .py code from this repository. This requires the full version of the bot. ❗
 
 ● DM me from Telegram (https://t.me/TokenTrailCeo) if you want to buy full version of the bot. 📭
